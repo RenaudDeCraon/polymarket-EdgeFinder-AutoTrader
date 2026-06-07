@@ -1,0 +1,134 @@
+{
+  "session": "2026-05-28T17:15:00.118102+00:00",
+  "config": {
+    "entry_threshold": 0.38,
+    "bet_size": 2.0,
+    "start_cash": 10.0,
+    "observe_period": 45,
+    "freeze_period": 30
+  },
+  "final_cash": 18.063,
+  "total_pnl": 8.063,
+  "results": [
+    {
+      "window_ts": 1779979500,
+      "question": "Bitcoin Up or Down - May 28, 10:45AM-10:50AM ET",
+      "ticks": 132,
+      "swings": 13,
+      "winner": "DN",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -2.001,
+      "up_min": 0.01,
+      "down_min": 0.345
+    },
+    {
+      "window_ts": 1779979800,
+      "question": "Bitcoin Up or Down - May 28, 10:50AM-10:55AM ET",
+      "ticks": 127,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -2.0002,
+      "up_min": 0.515,
+      "down_min": 0.01
+    },
+    {
+      "window_ts": 1779980100,
+      "question": "Bitcoin Up or Down - May 28, 10:55AM-11:00AM ET",
+      "ticks": 131,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -2.0002,
+      "up_min": 0.505,
+      "down_min": 0.01
+    },
+    {
+      "window_ts": 1779980400,
+      "question": "Bitcoin Up or Down - May 28, 11:00AM-11:05AM ET",
+      "ticks": 135,
+      "swings": 16,
+      "winner": "DN",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -2.001,
+      "up_min": 0.055,
+      "down_min": 0.385
+    },
+    {
+      "window_ts": 1779980700,
+      "question": "Bitcoin Up or Down - May 28, 11:05AM-11:10AM ET",
+      "ticks": 132,
+      "swings": 1,
+      "winner": "DN",
+      "trades": 1,
+      "dutch": false,
+      "pnl": 15.3724,
+      "up_min": 0.015,
+      "down_min": 0.015
+    },
+    {
+      "window_ts": 1779981000,
+      "question": "Bitcoin Up or Down - May 28, 11:10AM-11:15AM ET",
+      "ticks": 129,
+      "swings": 1,
+      "winner": "DN",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -1.9986,
+      "up_min": 0.01,
+      "down_min": 0.355
+    },
+    {
+      "window_ts": 1779981300,
+      "question": "Bitcoin Up or Down - May 28, 11:15AM-11:20AM ET",
+      "ticks": 130,
+      "swings": 8,
+      "winner": "DN",
+      "trades": 2,
+      "dutch": true,
+      "pnl": 1.6328,
+      "up_min": 0.01,
+      "down_min": 0.305
+    },
+    {
+      "window_ts": 1779981600,
+      "question": "Bitcoin Up or Down - May 28, 11:20AM-11:25AM ET",
+      "ticks": 73,
+      "swings": 1,
+      "winner": "UP",
+      "trades": 2,
+      "dutch": true,
+      "pnl": 1.7974,
+      "up_min": 0.255,
+      "down_min": 0.115
+    },
+    {
+      "window_ts": 1779984600,
+      "question": "Bitcoin Up or Down - May 28, 12:10PM-12:15PM ET",
+      "ticks": 13,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -2.0,
+      "up_min": 0.99,
+      "down_min": 0.01
+    },
+    {
+      "window_ts": 1779988200,
+      "question": "Bitcoin Up or Down - May 28, 1:10PM-1:15PM ET",
+      "ticks": 64,
+      "swings": 6,
+      "winner": "DN",
+      "trades": 2,
+      "dutch": true,
+      "pnl": 1.2614,
+      "up_min": 0.015,
+      "down_min": 0.365
+    }
+  ]
+}

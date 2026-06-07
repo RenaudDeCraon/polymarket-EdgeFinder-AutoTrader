@@ -1,0 +1,96 @@
+{
+  "session": "2026-05-29T06:52:44.399757+00:00",
+  "mode": "live",
+  "strategy_settings": {
+    "max_momentum_price": 0.7,
+    "min_entry_seconds_left": 120,
+    "min_entry_edge": 0.04,
+    "min_dutch_profit": 0.05,
+    "no_entry_first_seconds": 35
+  },
+  "config": {
+    "entry": 0.38,
+    "bet": 4.0,
+    "cash": 10.0,
+    "dutch_max": 0.85,
+    "extreme_entry": 0.22,
+    "no_trade": 0.12,
+    "min_dutch_profit": 0.05,
+    "observe": 45,
+    "freeze": 30
+  },
+  "final_cash": 1.101446,
+  "total_pnl": -0.5737,
+  "results": [
+    {
+      "window_ts": 1780037100,
+      "question": "Bitcoin Up or Down - May 29, 2:45AM-2:50AM ET",
+      "ticks": 33,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 0,
+      "dutch": false,
+      "pnl": 0,
+      "up_min": 0.985,
+      "down_min": 0.01,
+      "skips": 0,
+      "real_trades": false
+    },
+    {
+      "window_ts": 1780037400,
+      "question": "Bitcoin Up or Down - May 29, 2:50AM-2:55AM ET",
+      "ticks": 62,
+      "swings": 5,
+      "winner": "UP",
+      "trades": 1,
+      "dutch": false,
+      "pnl": -0.5737,
+      "up_min": 0.345,
+      "down_min": 0.035,
+      "skips": 2,
+      "real_trades": true
+    },
+    {
+      "window_ts": 1780037400,
+      "question": "Bitcoin Up or Down - May 29, 2:50AM-2:55AM ET",
+      "ticks": 1,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 0,
+      "dutch": false,
+      "pnl": 0,
+      "up_min": 0.885,
+      "down_min": 0.115,
+      "skips": 0,
+      "real_trades": false
+    },
+    {
+      "window_ts": 1780037400,
+      "question": "Bitcoin Up or Down - May 29, 2:50AM-2:55AM ET",
+      "ticks": 1,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 0,
+      "dutch": false,
+      "pnl": 0,
+      "up_min": 0.885,
+      "down_min": 0.115,
+      "skips": 0,
+      "real_trades": false
+    },
+    {
+      "window_ts": 1780037400,
+      "question": "Bitcoin Up or Down - May 29, 2:50AM-2:55AM ET",
+      "ticks": 1,
+      "swings": 0,
+      "winner": "UP",
+      "trades": 0,
+      "dutch": false,
+      "pnl": 0,
+      "up_min": 0.885,
+      "down_min": 0.115,
+      "skips": 0,
+      "real_trades": false
+    }
+  ]
+}
